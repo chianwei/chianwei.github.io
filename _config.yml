@@ -1,26 +1,30 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: Chi-An Wei
+title: Chi-An Wei | Software Engineer
+description: Pursuing researches relating to Robotics, AI, NLP, and Data Mining fields.
+url: https://hello.chianwei.xyz/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: kevinwei3@gmail.com
+cover: https://hello.chianwei.xyz/img/og.png
+logo: https://hello.chianwei.xyz/img/emojis/technologist.png
+resume: https://hello.chianwei.xyz/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:kevinwei3@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/kevinsmilehehe
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: 
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: 
+  - title: facebook
+    url: https://www.facebook.com/kevin.wei.982
+  - title: youtube
+    url: https://www.youtube.com/channel/UCdw2hhnOxPQqFOE-vgODfsQ
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/chianwei
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/chi-an-kevin-wei-077520141
 
 # Build settings
 markdown: kramdown
