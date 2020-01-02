@@ -5,14 +5,18 @@ description: Pursuing researches relating to Robotics, AI, NLP, and Data Mining 
 url: https://hello.chianwei.xyz/
 baseurl: ''
 email: kevinwei3@gmail.com
-cover: https://hello.chianwei.xyz/img/og.png
+# cover: https://hello.chianwei.xyz/img/og.png
 logo: https://hello.chianwei.xyz/img/emojis/technologist.png
 resume: https://hello.chianwei.xyz/resume.pdf
 social:
+  - title: mobile
+    url: tel:+886932103024
   - title: email
     url: mailto:kevinwei3@gmail.com
-  - title: twitter
-    url: https://twitter.com/kevinsmilehehe
+  - title: skype
+    url: callto:wei.kevin2
+  # - title: twitter
+  #   url: https://twitter.com/kevinsmilehehe
   # - title: instagram
   #   url: 
   # - title: codepen
