@@ -1,4 +1,7 @@
 .other-projects {
+  .projects {
+    margin-bottom: 50px;
+  }  
   .project {
     max-width: 600px;
     margin-bottom: 50px;
@@ -27,4 +30,11 @@
       }
     }
   }
+  .arrow-link {
+    font-size: 1.25rem;
+    &:after {
+      width: 20px;
+      height: 20px;
+    }
+  }  
 }
