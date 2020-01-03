@@ -18,6 +18,22 @@
           <li class="skillz__category__item">{{framework.item}}</li>
           {% endfor %}
         </ul>
+      </div>     
+      <div class="skillz__category">
+        <div class="skillz__category__label">Dev Board</div>
+        <ul>
+          {% for board in site.data.skills.boards %}
+          <li class="skillz__category__item">{{board.item}}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="skillz__category">
+        <div class="skillz__category__label">CAD</div>
+        <ul>
+          {% for cad in site.data.skills.cads %}
+          <li class="skillz__category__item">{{cad.item}}</li>
+          {% endfor %}
+        </ul>
       </div>
       <div class="skillz__category">
         <div class="skillz__category__label">Tools</div>
@@ -26,15 +42,7 @@
           <li class="skillz__category__item">{{tool.item}}</li>
           {% endfor %}
         </ul>
-      </div>
-      <div class="skillz__category">
-        <div class="skillz__category__label">Design</div>
-        <ul>
-          {% for thing in site.data.skills.design %}
-          <li class="skillz__category__item">{{thing.item}}</li>
-          {% endfor %}
-        </ul>
-      </div>
+      </div>      
     </div>
   </div>
 </section>
