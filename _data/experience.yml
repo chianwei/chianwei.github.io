@@ -1,44 +1,29 @@
-- company: Upstatement
-  url: https://www.upstatement.com/
-  time: May 2018 - Present
-  position: Engineer
+- company: PIXNET Digital Media Corporation
+  url: 
+  time: Jul 2019 ~ Sep 2019
+  position: Intern
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2018
-  position: Studio Developer
+- company: CTCI Corporation
+  url: 
+  time: Nov 2018 ~ Dec 2018
+  position: Project Member (Algorithm Consultant) of "Proof of Concept for Automatically Extract Specifications from Datasheets"
 
-- company: Apple Music
-  url: https://www.apple.com/music/
-  time: July - Dec 2017
-  position: UI Engineer Co-op
+- company: Industrial Technology Research Institute
+  url: 
+  time: Aug 2018 ~ Nov 2018
+  position: Project Member (Algorithm Co-developer) of "Text Mining Assisting Tools for Observation of Forward-looking Technology"
 
-- company: Scout
-  url: https://web.northeastern.edu/scout/
-  time: Jan - June 2017
-  position: Studio Developer
+- company: Far Eastern Electronic Toll Collection Company (FETC)
+  url: 
+  time: Jan 2016 ~ Apr 2017
+  position: Project Member (WebUI Developer) / Project Manager (Since Jan 2017) of "Big Data Analysis - The Case of FETC Device Monitoring Data"
 
-- company: Starry
-  url: https://starry.com/
-  time: July - Dec 2016
-  position: Software Engineer Co-op
+- company: Taiwan Semiconductor Manufacturing Company (TSMC)
+  url: 
+  time: Sep 2016 ~ Dec 2016
+  position: Team Leader of "Big Data Analysis for Semiconductor Manufacturing Competition"
 
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Jan - May 2016
-  position: HCI Teaching Assistant
-
-- company: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  time: Jan 2016 - May 2017
-  position: President & Web Chair
-
-- company: MullenLowe U.S.
-  url: https://us.mullenlowe.com/
-  time: July - Dec 2015
-  position: Creative Technologist Co-op
-
-- company: Northeastern University
-  url: http://www.ccis.northeastern.edu/
-  time: Mar - May 2015
-  position: HCI Research Assistant
+- company: Robotics Research Center, Ming Chuan Univerdity
+  url: 
+  time: Nov 2014 ~ Jun 2016
+  position: Project Leader of "Middle-Size Soccer Robot"
