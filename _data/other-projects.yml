@@ -1,162 +1,186 @@
-- name: Surf Videos
-  url: https://github.com/bchiang7/Surf-Videos
-  code: https://github.com/bchiang7/Surf-Videos
-  description: Small React project created during an interview process to browse and search surf videos via the YouTube API.
+- name: Article Recommendation through Graph Built from User’s Log
+  host: PIXNET Digital Media Corporation
+  url: 
+  host_url: 
+  code: 
+  description: Achieved article recommendation based on a graph built from browsing behavior, which been used to analyze the relationship between articles.
   used:
+    - thing: DeepWalk
+    - thing: Node2vec
+    - thing: Word2vec
+
+- name: Dialogue and Natural Conversation System of Medical and Public Health Integration Service about Artificial Intelligence through Cloud
+  host: Ministry of Science and Technology (National Science Council)
+  url: 
+  host_url:
+  code: 
+  description: By using Line API and the cooperation of the department of medical to build a chatbot that provides free conversation and inquiry for users.
+  used:
+    - thing: Line API
+    - thing: BERT
+    - thing: CRF
+    - thing: NER
+
+- name: Proof of Concept for Automatically Extract Specifications from Datasheets
+  host: CTCI Corporation
+  url: 
+  host_url:
+  code: 
+  description: Providing the proof of concept for automatically extract required specification items from the datasheet.
+
+- name: Text Mining Assisting Tools for Observation of Forward-looking Technology
+  host: Industrial Technology Research Institute
+  url: 
+  host_url:
+  code: 
+  description: Build a system for finding paragraphs related to a given query and linking the research topic it belongs through the result of learning labeled keywords.
+  used:
+    - thing: Word2vec
+    - thing: fastText
+
+- name: Identifying Argument Components in Online Debates through Directed Graph and Argument-oriented Summarization
+  host: Intelligent Knowledge Management Laboratory, National Cheng Kung University
+  url: 
+  host_url:
+  code: 
+  description: Aim to solve the argument component extraction task which highlights the argumentative sentences for further applications.
+  used:
+    - thing: TextRank
+    - thing: Directed Graph
+    - thing: PageRank
+    - thing: Lexicon Expansion
+    - thing: Argument Representation
+    - thing: Dense NN
+
+- name: Development and Study of Gesture Feedback and Hearing Feedback in Touch Devices for the Elderly (I)
+  host: Ministry of Science and Technology (National Science Council)
+  url: 
+  host_url:
+  code: 
+  description: Co-develop a bluetooth device which contains quad vibration motors to measure accurate feedback from the experiment target.
+  used:
+    - thing: Bluetooth
+    - thing: Arduino
+    - thing: Visual C++
+      
+- name: Constructing a mixed and streaming data analysis and visualize environment on Apache Spark - Constructing a text processing environment on Apache Spark
+  host: Ministry of Science and Technology (National Science Council)
+  url: 
+  host_url:
+  code: 
+  description: Achieved processing Chinese corpus to generate sentiment lexicon.
+  used:
+    - thing: WordNet
+    - thing: Word2vec
+    - thing: Java
+    - thing: Spark
+    - thing: NLP for Chinese
+
+
+- name: Chatbot for User Poetry Scoring using Classical Chinese Poetry
+  host: Multilingual and Crosslingual Information System, National Cheng Kung University
+  url: 
+  host_url:
+  code: 
+  description: Using classical Chinese poetry to develop a chatbot which learned from it to score poetry written by a user and predict which classical Chinese poetry author of existing poetry does the user behaved similarly.
+  used:
+    - thing: LSTM
+
+- name: Quora Question Pairs
+  host: Kaggle
+  url: 
+  host_url:
+  code: 
+  description: Predict whether the two question statements on Quora are similar or not.
+  used:
+    - thing: XGBoost
+    - thing: Feature Enginnering
+    - thing: LSTM
+      
+- name: Big Data Analysis - The Case of FETC Device Monitoring Data
+  host: Far Eastern Electronic Toll Collection Company (FETC)
+  url: 
+  host_url:
+  code: 
+  description: Achieved a system that predicts failure of freeway toll collection devices via analysis its logs.
+  used:
+    - thing: HTML
     - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
-
-- name: Halcyon Theme
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
-  used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
-
-- name: Lonely Planet DBMS
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
-  used:
+    - thing: D3.js
     - thing: Python
-    - thing: MySQL
-    - thing: Flask
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
+    - thing: Java
+    - thing: SQL
+    - thing: Data Analysis
 
-- name: myNEU Redesign
-  url: https://bchiang7.github.io/Redesign-myNEU/
-  code: https://github.com/bchiang7/Redesign-myNEU
-  description: myNEU student portal web prototype for my information science senior project. I conducted a study that aimed to answer the question of how myNEU can be improved to provide students at Northeastern with a better user experience. Informed by usability metrics gathered from user tests, I redesigned and developed a web prototype of myNEU.
+- name: Vandalism Detection
+  host: ACM International Conference on Web Search and Data Mining
+  url: 
+  host_url:
+  code: 
+  description: Achieved vandalism detection on Wikipedia pages via its revision data.
   used:
-    - thing: Jekyll
-    - thing: HTML
-    - thing: SCSS
-    - thing: JavaScript
+    - thing: Data Analysis
+    - thing: Python
 
-- name: Crowd DJ
-  url: https://github.com/crowddj/crowddj-react
-  code: https://github.com/crowddj/crowddj-react
-  description:
-    A web app that allows people who are at a party or social gathering with a DJ to request songs via their smartphones. The web app allows people to see the currently playing song, request songs, upvote songs, and rate songs so the DJ can see how the crowd is feeling and act accordingly. In other words, Crowd DJ is essentially a crowdsourced music queue. <br>
-    <a class="small" href="http://projects.hackbeanpot.com/2017-projects.html">🏆 Won Best UI/UX Design at Hackbeanpot 2017 🏆</a>
+- name: Big Data Analysis for Semiconductor Manufacturing
+  host: Taiwan Semiconductor Manufacturing Company (TSMC)
+  url: 
+  host_url:
+  code: 
+  description: Achieved semiconductor yield prediction via TSMC manufacturing data.
   used:
-    - thing: React
-    - thing: Sass
-    - thing: Firebase
-    - thing: Spotify API
-
-- name: Weather Widget
-  url: http://quiet-dusk-89245.herokuapp.com/
-  code: https://github.com/bchiang7/DemoWebApp
-  description: A simple weather app I made at HubSpot's Fall 2016 Web App Workshop with Node.js, Express, and Heroku. I used the OpenWeatherMap API to get weather and forecast data, and then used the current city's coordinates to create a map background that reflected the current city using the Google Maps API.
-  img: weather
+    - thing: Data Analysis
+    - thing: Python
+    - thing: Traditional ML
+      
+- name: Predict Failing Car Component through Customer Service Record in Automobile Manufactory
+  host: Industrial Technology Research Institute
+  url: 
+  host_url:
+  code: 
+  description: Predict which component is possible to fail through automobile customer service records and records from repair factory.
   used:
-    - thing: JavaScript
-    - thing: CSS
-    - thing: Node.js
-    - thing: Express
-    - thing: Heroku
-    - thing: OpenWeatherMap API
-    - thing: Google Maps API
+    - thing: Data Analysis
+    - thing: Python
+    - thing: Traditional ML
 
-# - name: ScreenTime 2.0
-#   url: https://play.google.com/store/apps/details?id=com.starry.management
-#   description: App-blocking feature on <a class="underline-link" href="https://starry.com/station" target="_blank">Starry Station</a> that provides functionality for users to easily filter content, pause the internet, and even create custom rules for blocking apps like Facebook and Twitter right from their mobile phones. Learn more about ScreenTime 2.0 on <a class="underline-link" href="https://www.producthunt.com/tech/screentime-for-starry-station" target="_blank">Product Hunt</a> and the <a class="underline-link" href="https://blog.starry.com/whats-new-screentime-just-got-better-for-parents/" target="_blank">Starry Blog</a>.
-#   used:
-#   - thing: JavaScript
-#   - thing: CSS
-#   - thing: Handlebars
-#   - thing: Backbone
-#   - thing: Marionette
-#   - thing: Cordova
-
-- name: Personal Website V2
-  url: https://bchiang7.github.io/v2
-  code: https://github.com/bchiang7/v2
-  description: Second iteration of my personal website. Designed and developed with a conscious effort to avoid using any superfluous frameworks like Bootstrap.
-  used:
-    - thing: Jekyll
-    - thing: Handlebars
-    - thing: SCSS
-    - thing: JavaScript
-    - thing: Github Pages
-
-- name: React Resume
-  url: https://bchiang7.github.io/react-profile/
-  code: https://github.com/bchiang7/react-profile/
-  description: An online version of my 2016 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. I probably didn't need to use React at all, but hey, at least I learned a few things!
-  used:
-    - thing: JavaScript
-    - thing: React
-    - thing: CSS
-
-- name: CourseSource
-  url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
-  code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
-  description: A web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development course at Northeastern. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern.
+- name: NCKU E-motor Technology Research Center Website Development
+  host: Ministry of Education
+  url: 
+  host_url:
+  code: 
+  description: Design a website to promote and present the information and related technology of NCKU E-motor technology research center.
   used:
     - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-    - thing: Node.js
-    - thing: Angular
-    - thing: Express
-    - thing: MongoDB
+    - thing: PHP
 
-- name: NU Women in Tech
-  url: http://nuwit.ccs.neu.edu/
-  code: https://github.com/nuwit/website
-  description: Complete overhaul and redesign of NU Women in Tech's club website using Jekyll, built while serving as web chair on the e-board.
+- name: Middle-Size Soccer Robot
+  host: Robotics Research Center, Ming Chuan Univerdity
+  url: 
+  host_url:
+  code: 
+  description: Lead research team to developed tons of new features and improvements on the middle-size soccer robot.
   used:
-    - thing: Jekyll
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-    - thing: Bootstrap
+    - thing: Omni-mirror Image Processing
+    - thing: Visual C++
+    - thing: VHDL
+    - thing: Protel
+    - thing: Hardware Enginnering
+      
+- name: Predicting Target Movement on Middle-Size Soccer Robot
+  host: Ministry of Science and Technology (National Science Council)
+  url: 
+  host_url:
+  code: 
+  description: Featuring a movement prediction of soccer ball through its history positions.
+  used:
+    - thing: Visual C++
 
-- name: Fontipsums
-  url: https://bchiang7.github.io/fontipsums
-  code: https://github.com/bchiang7/fontipsums
-  description: As someone who has an eye for typography, I wanted a way to visually see different font combinations together. I whipped up this simple website to display some of my favorite pairings combined with some fun lorem ipsum variations I found on the web.
+- name: Strategy of Team Cooperation on Middle-Sized Soccer Robot in Competition
+  host: College Student Research Project, Ming Chuan University
+  url: 
+  host_url:
+  code: 
+  description: Lead project members made a cooperation environment that grouping robots as a team.
   used:
-    - thing: HTML
-    - thing: SCSS
-
-- name: Personal Website V1
-  url: https://bchiang7.github.io/v1
-  code: https://github.com/bchiang7/website_2015/
-  description: My first portfolio website I designed and built in 2014. I learned quite a bit about HTML, CSS, and SEO. Since then, I think my web development and design skills have improved immensely.
-  used:
-    - thing: HTML
-    - thing: CSS
-    - thing: Bootstrap
-    - thing: JavaScript
-    - thing: jQuery
-
-- name: One Card For All
-  url: http://onecardforall.org
-  description: MullenLowe's 2016 holiday site built around an algorithm that generates a holiday greeting to each and every person on the planet. As new names appear, visitors can watch them fall, like snowflakes, onto a stylized world map. Users can also find their own name and see it as part of the world collective. Check out this short <a class="underline-link" href="http://us.mullenlowe.com/work/one-card-for-all/" target="_blank">video</a> describing the project.
-  used:
-    - thing: HTML
-    - thing: SCSS
-    - thing: JavaScript
-    - thing: jQuery
-
-- name: JetBlue HumanKinda
-  url: http://jetbluehumankinda.com
-  description: Tumblr site complementing JetBlue's HumanKinda campaign and documentary. The site houses the video documentary, many graphics created by Mullen for the campaign, and an interactive quiz to determine how "HumanKinda" you are. Learn more about this project <a class="underline-link" href="http://us.mullenlowe.com/work/humankinda/" target="_blank">here</a>.
-  used:
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
-    - thing: jQuery
+    - thing: Visual C++
