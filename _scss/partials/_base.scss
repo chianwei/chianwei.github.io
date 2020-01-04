@@ -197,6 +197,26 @@ strong {
   }
 }
 
+.arrow {
+  @include transition;
+  display: inline-block;
+  background-color: transparent;
+  white-space: nowrap;
+  &:before {
+    @include transition;
+    position: relative;
+    bottom: 2px;
+    margin-right: 7px;
+    content: '';
+    background: url('../img/arrow.svg') no-repeat center;
+    background-size: 100%;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
 .small {
   font-family: 'Inconsolata', monospace;
   font-size: 0.85rem;
