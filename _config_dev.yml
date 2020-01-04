@@ -5,7 +5,7 @@ description: Hi! I'm pursuing researches relating to Robotics, AI, NLP, and Data
 url: https://hello.chianwei.xyz/
 baseurl: ''
 email: kevinwei3@gmail.com
-# cover: https://hello.chianwei.xyz/img/og.png
+cover: https://hello.chianwei.xyz/img/og.png
 logo: https://hello.chianwei.xyz/img/emojis/technologist.png
 resume: https://hello.chianwei.xyz/resume.pdf
 social:
