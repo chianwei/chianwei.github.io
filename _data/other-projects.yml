@@ -40,10 +40,10 @@
 
 - name: Identifying Argument Components in Online Debates through Directed Graph and Argument-oriented Summarization
   host: Intelligent Knowledge Management Laboratory, National Cheng Kung University
-  url: 
+  url: http://ir.lib.ncku.edu.tw/handle/987654321/185777?locale=en-US
   host_url:
   code: 
-  description: Aim to solve the argument component extraction task which highlights the argumentative sentences for further applications.
+  description: Aim to solve the argument component extraction task which highlights the argumentative sentences for further applications.<br><a class="small" href="">🙋‍♂️ Master Thesis 🙋‍♂️</a>
   used:
     - thing: TextRank
     - thing: Directed Graph
@@ -156,10 +156,10 @@
 
 - name: Middle-Size Soccer Robot
   host: Robotics Research Center, Ming Chuan Univerdity
-  url: 
+  url: https://youtu.be/4MQnGhUnlnE?list=PLrtUCci5aUhJ2FoDfYAxVhoelqlkDKlS4
   host_url:
   code: 
-  description: Lead research team to developed tons of new features and improvements on the middle-size soccer robot.
+  description: Lead research team to developed tons of new features and improvements on the middle-size soccer robot.<br><a class="small" href="https://youtu.be/vum8fPhUUZk">🏆 Won 1 Golden Medal and 3 Silver Medal at 2015 FIRA RoboSot 🏆</a>
   used:
     - thing: Omni-mirror Image Processing
     - thing: Visual C++
@@ -178,9 +178,9 @@
 
 - name: Strategy of Team Cooperation on Middle-Sized Soccer Robot in Competition
   host: College Student Research Project, Ming Chuan University
-  url: 
+  url: http://www.ite.mcu.edu.tw/wp-content/uploads/img/%E5%B0%88%E7%A0%94%E6%B5%B7%E5%A0%B1/chinese/104pic/%E4%B8%AD%E5%9E%8B%E8%B6%B3%E7%90%83%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%9C%98%E9%AB%94%E7%AB%B6%E8%B3%BD%E8%A1%8C%E5%8B%95%E4%B9%8B%E7%A0%94%E7%A9%B6.gif
   host_url:
   code: 
-  description: Lead project members made a cooperation environment that grouping robots as a team.
+  description: Lead project members made a cooperation environment that grouping robots as a team.<br><a class="small" href="https://youtu.be/vum8fPhUUZk">🙋‍♂️ Bachelor Thesis 🙋‍♂️</a>
   used:
     - thing: Visual C++
