@@ -38,7 +38,7 @@
     - thing: Word2vec
     - thing: fastText
 
-- name: Identifying Argument Components in Online Debates through Directed Graph and Argument-oriented Summarization
+- name: ArguRank
   host: Intelligent Knowledge Management Laboratory, National Cheng Kung University
   url: http://ir.lib.ncku.edu.tw/handle/987654321/185777?locale=en-US
   host_url:
