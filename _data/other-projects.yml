@@ -98,7 +98,7 @@
     - thing: LSTM
       
 - name: Big Data Analysis - The Case of FETC Device Monitoring Data
-  host: Far Eastern Electronic Toll Collection Company (FETC)
+  host: Far Eastern Electronic Toll Collection Company
   url: 
   host_url:
   code: 
@@ -123,7 +123,7 @@
     - thing: Python
 
 - name: Big Data Analysis for Semiconductor Manufacturing
-  host: Taiwan Semiconductor Manufacturing Company (TSMC)
+  host: Taiwan Semiconductor Manufacturing Company
   url: 
   host_url:
   code: 
