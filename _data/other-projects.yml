@@ -39,11 +39,11 @@
     - thing: fastText
 
 - name: ArguRank
-  host: Intelligent Knowledge Management Laboratory, National Cheng Kung University
+  host: National Cheng Kung University
   url: http://ir.lib.ncku.edu.tw/handle/987654321/185777?locale=en-US
   host_url:
   code: 
-  description: Aim to solve the argument component extraction task which highlights the argumentative sentences for further applications.<br><a class="small" href="http://ir.lib.ncku.edu.tw/handle/987654321/185777?locale=en-US">🙋‍♂️ Master Thesis 🙋‍♂️</a>
+  description: Aim to solve the argument component extraction task which highlights the argumentative sentences for further applications.<br>This work is part of my master thesis done in "Intelligent Knowledge Management Laboratory."<br><a class="small" href="http://ir.lib.ncku.edu.tw/handle/987654321/185777?locale=en-US">🙋‍♂️ Master Thesis 🙋‍♂️</a>
   used:
     - thing: TextRank
     - thing: Directed Graph
@@ -78,11 +78,11 @@
 
 
 - name: Chatbot for User Poetry Scoring using Classical Chinese Poetry
-  host: Multilingual and Crosslingual Information System, National Cheng Kung University
+  host: National Cheng Kung University
   url: 
   host_url:
   code: 
-  description: Using classical Chinese poetry to develop a chatbot which learned from it to score poetry written by a user and predict which classical Chinese poetry author of existing poetry does the user behaved similarly.
+  description: Using classical Chinese poetry to develop a chatbot which learned from it to score poetry written by a user and predict which classical Chinese poetry author of existing poetry does the user behaved similarly.<br>This work is the final project of course "Multilingual and Crosslingual Information System."
   used:
     - thing: LSTM
 
