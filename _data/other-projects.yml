@@ -10,7 +10,7 @@
     - thing: Word2vec
 
 - name: Dialogue and Natural Conversation System of Medical and Public Health Integration Service about Artificial Intelligence through Cloud
-  host: Ministry of Science and Technology (National Science Council)
+  host: Ministry of Science and Technology
   url: 
   host_url:
   code: 
@@ -53,7 +53,7 @@
     - thing: Dense NN
 
 - name: Development and Study of Gesture Feedback and Hearing Feedback in Touch Devices for the Elderly (I)
-  host: Ministry of Science and Technology (National Science Council)
+  host: Ministry of Science and Technology
   url: 
   host_url:
   code: 
@@ -64,7 +64,7 @@
     - thing: Visual C++
       
 - name: Constructing a mixed and streaming data analysis and visualize environment on Apache Spark - Constructing a text processing environment on Apache Spark
-  host: Ministry of Science and Technology (National Science Council)
+  host: Ministry of Science and Technology
   url: 
   host_url:
   code: 
@@ -168,7 +168,7 @@
     - thing: Hardware Enginnering
       
 - name: Predicting Target Movement on Middle-Size Soccer Robot
-  host: Ministry of Science and Technology (National Science Council)
+  host: Ministry of Science and Technology
   url: 
   host_url:
   code: 
