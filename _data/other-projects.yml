@@ -63,7 +63,7 @@
     - thing: Arduino
     - thing: Visual C++
       
-- name: Constructing a mixed and streaming data analysis and visualize environment on Apache Spark - Constructing a text processing environment on Apache Spark
+- name: Constructing a text processing environment on Apache Spark
   host: Ministry of Science and Technology
   url: 
   host_url:
