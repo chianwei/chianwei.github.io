@@ -1,7 +1,7 @@
 - name: Article Recommendation through Graph Built from User’s Log
   host: PIXNET Digital Media Corporation
   url: 
-  host_url: 
+  host_url: https://www.pixnet.net
   code: 
   description: Achieved article recommendation based on a graph built from browsing behavior, which been used to analyze the relationship between articles.
   used:
@@ -12,7 +12,7 @@
 - name: Dialogue and Natural Conversation System of Medical
   host: Ministry of Science and Technology
   url: 
-  host_url:
+  host_url: https://www.most.gov.tw/?l=en
   code: 
   description: By using Line API and the cooperation of the department of medical to build a chatbot that provides free conversation and inquiry for users.
   used:
@@ -24,14 +24,14 @@
 - name: Proof of Concept for Automatically Extract Specifications from Datasheets
   host: CTCI Corporation
   url: 
-  host_url:
+  host_url: http://www.res.com.tw/page.aspx?L=EN&C=0407
   code: 
   description: Providing the proof of concept for automatically extract required specification items from the datasheet.
 
 - name: Text Mining Assisting Tools for Observation of Forward-looking Technology
   host: Industrial Technology Research Institute
   url: 
-  host_url:
+  host_url: https://www.itri.org.tw/eng/
   code: 
   description: Build a system for finding paragraphs related to a given query and linking the research topic it belongs through the result of learning labeled keywords.
   used:
@@ -55,7 +55,7 @@
 - name: Development and Study of Gesture Feedback and Hearing Feedback in Touch Devices for the Elderly (I)
   host: Ministry of Science and Technology
   url: 
-  host_url:
+  host_url: https://www.most.gov.tw/?l=en
   code: 
   description: Co-develop a bluetooth device which contains quad vibration motors to measure accurate feedback from the experiment target.
   used:
@@ -66,7 +66,7 @@
 - name: Constructing a text processing environment on Apache Spark
   host: Ministry of Science and Technology
   url: 
-  host_url:
+  host_url: https://www.most.gov.tw/?l=en
   code: 
   description: Achieved processing Chinese corpus to generate sentiment lexicon.
   used:
@@ -88,8 +88,8 @@
 
 - name: Quora Question Pairs
   host: Kaggle
-  url: 
-  host_url:
+  url: https://www.kaggle.com/c/quora-question-pairs
+  host_url: https://www.kaggle.com/
   code: 
   description: Predict whether the two question statements on Quora are similar or not.
   used:
@@ -100,7 +100,7 @@
 - name: Big Data Analysis - The Case of FETC Device Monitoring Data
   host: Far Eastern Electronic Toll Collection Company
   url: 
-  host_url:
+  host_url: https://www.fetc.net.tw/en/
   code: 
   description: Achieved a system that predicts failure of freeway toll collection devices via analysis its logs.
   used:
@@ -115,7 +115,7 @@
 - name: Vandalism Detection
   host: ACM International Conference on Web Search and Data Mining
   url: 
-  host_url:
+  host_url: https://www.wsdm-cup-2017.org
   code: 
   description: Achieved vandalism detection on Wikipedia pages via its revision data.
   used:
@@ -125,7 +125,7 @@
 - name: Big Data Analysis for Semiconductor Manufacturing
   host: Taiwan Semiconductor Manufacturing Company
   url: 
-  host_url:
+  host_url: https://step.unison.org.tw/bigdata/
   code: 
   description: Achieved semiconductor yield prediction via TSMC manufacturing data.
   used:
@@ -136,7 +136,7 @@
 - name: Predict Failing Car Component through Customer Service Record in Automobile Manufactory
   host: Industrial Technology Research Institute
   url: 
-  host_url:
+  host_url: https://www.itri.org.tw/eng/
   code: 
   description: Predict which component is possible to fail through automobile customer service records and records from repair factory.
   used:
@@ -147,7 +147,7 @@
 - name: NCKU E-motor Technology Research Center Website Development
   host: Ministry of Education
   url: 
-  host_url:
+  host_url: https://english.moe.gov.tw
   code: 
   description: Design a website to promote and present the information and related technology of NCKU E-motor technology research center.
   used:
@@ -170,7 +170,7 @@
 - name: Predicting Target Movement on Middle-Size Soccer Robot
   host: Ministry of Science and Technology
   url: 
-  host_url:
+  host_url: https://www.most.gov.tw/?l=en
   code: 
   description: Featuring a movement prediction of soccer ball through its history positions.
   used:
