@@ -52,7 +52,7 @@
     - thing: Argument Representation
     - thing: Dense NN
 
-- name: Development and Study of Gesture Feedback and Hearing Feedback in Touch Devices for the Elderly (I)
+- name: Development and Study of Gesture and Hearing Feedback in Touch Devices
   host: Ministry of Science and Technology
   url: 
   host_url: https://www.most.gov.tw/?l=en
@@ -133,7 +133,7 @@
     - thing: Python
     - thing: Traditional ML
       
-- name: Predict Failing Car Component through Customer Service Record in Automobile Manufactory
+- name: Predict Failing Car Component
   host: Industrial Technology Research Institute
   url: 
   host_url: https://www.itri.org.tw/eng/
