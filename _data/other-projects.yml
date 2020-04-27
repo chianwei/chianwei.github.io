@@ -165,7 +165,7 @@
     - thing: Visual C++
     - thing: VHDL
     - thing: Protel
-    - thing: Hardware Enginnering
+    - thing: Hardware Engineering
       
 - name: Predicting Target Movement on Middle-Size Soccer Robot
   host: Ministry of Science and Technology
