@@ -2,12 +2,12 @@
 name: Chi-An Wei
 title: Chi-An Wei | Pursuing researches relating to Robotics, AI, NLP, and Data Mining
 description: Hi! I'm pursuing researches relating to Robotics, AI, NLP, and Data Mining fields.
-url: https://hello.chianwei.xyz/
+url: https://chianwei.com/
 baseurl: ''
 email: kevinwei3@gmail.com
-cover: https://hello.chianwei.xyz/img/og.png
-logo: https://hello.chianwei.xyz/img/emojis/technologist.png
-resume: https://hello.chianwei.xyz/resume.pdf
+cover: https://chianwei.com/img/og.png
+logo: https://chianwei.com/img/emojis/technologist.png
+resume: https://chianwei.com/resume.pdf
 social:
   - title: mobile
     url: tel:+886932103024
