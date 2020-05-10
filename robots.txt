@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://hello.chianwei.xyz/sitemap.xml
+Sitemap: https://chianwei.com/sitemap.xml
