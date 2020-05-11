@@ -159,7 +159,7 @@
   url: https://youtu.be/4MQnGhUnlnE?list=PLrtUCci5aUhJ2FoDfYAxVhoelqlkDKlS4
   host_url:
   code: 
-  description: Lead research team to developed tons of new features and improvements on the middle-size soccer robot.<br><a class="small" href="https://youtu.be/vum8fPhUUZk">🏆 Won 1 Golden Medal and 3 Silver Medal at 2015 FIRA RoboSot 🏆</a>
+  description: Lead research team to developed tons of new features and improvements on the middle-size soccer robot.<br><a class="small" href="https://youtu.be/vum8fPhUUZk">🏆 Won 1 Golden Medal and 3 Silver Medals at 2015 FIRA RoboSot in Korea 🏆</a>
   used:
     - thing: Omni-mirror Image Processing
     - thing: Visual C++
@@ -172,7 +172,7 @@
   url: 
   host_url: https://www.most.gov.tw/?l=en
   code: 
-  description: Featuring a movement prediction of soccer ball through its history positions.
+  description: Featuring a movement prediction of soccer ball through its history positions.<br><a class="small" href="https://youtu.be/eB-JUUPw3fI">🏆 Won 1 Golden Medal and 3 Silver Medals at 2014 FIRA RoboSot in Beijing 🏆</a>
   used:
     - thing: Visual C++
 
